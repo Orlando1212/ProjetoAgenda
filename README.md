@@ -10,3 +10,7 @@ O projeto consiste em criar uma agenda onde posso criar, excluir e editar os con
 - Express
 - Javascript
 - Bootstrap
+
+## Observações ##
+
+O projeto ainda está em faze de criação, faltando algumas partes.
