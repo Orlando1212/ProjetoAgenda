@@ -16,4 +16,4 @@ Onde os dados são armazenados em um banco de dados.
 
 ## Observações ##
 
-O projeto ainda está em faze de criação, faltando algumas partes.
+O projeto ainda está em fase de criação, faltando algumas partes.
